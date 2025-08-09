@@ -13,7 +13,7 @@ Welcome to my personal portfolio website! 🚀 This project showcases my skills,
 - **Framer Motion**: For animations. 🎞️
 - **Supabase**: For backend storage. 🗃️
 - **Vite** (or Create React App): For setup. 🛠️
-- **Tailwind CSS**: For styling (if used). 🎨
+- **Tailwind CSS**: For styling. 🎨
 
 ## Getting Started 🏁
 
